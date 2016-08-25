@@ -14,9 +14,10 @@ header{
 .txt-pink{
 	color:#ff597c;
 }
+/*
 nav li a{
 	color:white !important;
-}
+}*/
 .jumbotron{
 	background: transparent;
 	color:white;
